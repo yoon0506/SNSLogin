@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SNSLogin</string>
+    <string name="kakao_app_key">812a7afb4bcb6bb0e36336d9cf2eb493</string>
+    <string name="facebook_app_id">837681123579521</string> <string name="fb_login_protocol_scheme">fb837681123579521</string>
+
+</resources>
